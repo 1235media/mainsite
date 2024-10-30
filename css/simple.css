@@ -709,3 +709,10 @@ sub {
   padding: 1.5rem;
   margin: 2rem 0;
 }
+
+/* 
+Added by Jon Wear 2024-10-30
+*/
+ul li {
+  margin-bottom: 1em; /* Adjust as needed for more or less spacing */
+}
