@@ -716,3 +716,42 @@ Added by Jon Wear 2024-10-30
 ul li {
   margin-bottom: 1em; /* Adjust as needed for more or less spacing */
 }
+
+/* Modal Styling */
+#imageModal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Full-size image within modal */
+#modalImage {
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain;
+}
+
+/* Hover effect for clickable images */
+li a img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+li a:hover img {
+  transform: scale(1.05); /* Slightly enlarges the image */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Adds a subtle shadow */
+  border: 2px solid #0000FF; /* Adds a blue border */
+  border-radius: 4px; /* Optional rounded corners */
+}
+
+
+#arrow {
+  margin-left: 8px;
+  font-size: 1.2em;
+}
