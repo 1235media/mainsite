@@ -11,6 +11,7 @@
         <h1>123<i>5</i>Media</h1>
         <h2><i>Break Old Patterns</i></h2>
         </h1>        
+        <p>Contact us: <a href="mailto:info@1235media.com" style="color: #ccccff;">info@1235media.com</a></p>
     </header>
     <p style="font-size: 1.2em; line-height: 1.5;">
         <span style="float: left; font-size: 3em; line-height: 1; margin-right: 8px;">W</span>ith over 30 years in software development, 
@@ -54,11 +55,11 @@
         </ul>
     </section>
     <section>
-        <h2 onclick="toggleHighlights()" style="cursor: pointer;">
+        <img src="images/mainimage_2.png" alt="Image of laptop with dreamlike possibilities floating around it." style="width: 75%; height: auto; display: block; margin: auto;">
+        <h2 >
             Experience Highlights 
-            <span id="arrow" style="display: inline-block; transform: rotate(0deg); transition: transform 0.3s;">&#9660;</span>
         </h2>
-        <div id="highlightsContent" style="display: none;">
+        <div id="highlightsContent">
         <p>1235Media draws on decades of hands-on experience in developing transformative projects for the entertainment and media industry. Here are a few standout projects from our founder’s tenure at Warner Bros., where he played a key role in bringing innovative solutions to life across leading platforms:</p>
     
         <ul>
@@ -119,10 +120,7 @@
             <img id="modalImage" style="max-width: 90%; max-height: 90%; display: block; margin: auto;">
         </div>
     </section>
-    
-    <p>Contact us: <a href="mailto:info@1235media.com" style="color: #0000FF;">info@1235media.com</a></p>
-    
-
+    <p>Contact us: <a href="mailto:info@1235media.com" style="color: #ccccff;">info@1235media.com</a></p>
     <footer style="text-align: left;">
         <h2>Let’s Build Something Extraordinary</h2>
         <p>Ready to take your project to the next level? Partner with us, and count on a trusted team with decades of experience across platforms, industries, and collaborative spaces to deliver exceptional results.</p>
@@ -151,19 +149,6 @@
     function closeModalOnEscape(event) {
         if (event.key === 'Escape') {
             closeModal();
-        }
-    }
-
-    function toggleHighlights() {
-        const content = document.getElementById('highlightsContent');
-        const arrow = document.getElementById('arrow');
-        
-        if (content.style.display === 'none') {
-            content.style.display = 'block';
-            arrow.style.transform = 'rotate(180deg)'; // Arrow points up
-        } else {
-            content.style.display = 'none';
-            arrow.style.transform = 'rotate(0deg)'; // Arrow points down
         }
     }
 
