@@ -54,11 +54,11 @@
         </ul>
     </section>
     <section>
-        <h2 onclick="toggleHighlights()" style="cursor: pointer;">
+        <img src="images/mainimage_2.png" alt="Image of laptop with dreamlike possibilities floating around it." style="width: 75%; height: auto; display: block; margin: auto;">
+        <h2 >
             Experience Highlights 
-            <span id="arrow" style="display: inline-block; transform: rotate(0deg); transition: transform 0.3s;">&#9660;</span>
         </h2>
-        <div id="highlightsContent" style="display: none;">
+        <div id="highlightsContent">
         <p>1235Media draws on decades of hands-on experience in developing transformative projects for the entertainment and media industry. Here are a few standout projects from our founder’s tenure at Warner Bros., where he played a key role in bringing innovative solutions to life across leading platforms:</p>
     
         <ul>
@@ -151,19 +151,6 @@
     function closeModalOnEscape(event) {
         if (event.key === 'Escape') {
             closeModal();
-        }
-    }
-
-    function toggleHighlights() {
-        const content = document.getElementById('highlightsContent');
-        const arrow = document.getElementById('arrow');
-        
-        if (content.style.display === 'none') {
-            content.style.display = 'block';
-            arrow.style.transform = 'rotate(180deg)'; // Arrow points up
-        } else {
-            content.style.display = 'none';
-            arrow.style.transform = 'rotate(0deg)'; // Arrow points down
         }
     }
 
