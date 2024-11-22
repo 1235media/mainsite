@@ -108,7 +108,9 @@ header > nav {
     mix-blend-mode: lighten;
 }
 
-.button {
+button, .button {
+    border: 0;
+    font-size: 20px;
     background-color: #E01A4F;
     background-color: var(--accent);
     font-weight: 600;
