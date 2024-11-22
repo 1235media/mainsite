@@ -20,6 +20,8 @@
     background-color: var(--near-white);
     font-size: 20px;
     line-height: 1.5;
+
+    overflow-x: hidden;
 }
 
 :target {
@@ -384,12 +386,21 @@ section > img {
     :target {
         scroll-margin-top: 0;
     }
-    
+
     #contact:target {
         scroll-margin-top: 0;
     }
-    
+
     section:target {
         scroll-margin-top: 0;
     }
+
+    .box, form {
+        border-radius: 0;
+        padding: 1rem;
+    }
+
+    #services-title > * {
+        border-radius: var(--border-radius) 0 0 0;
+}
 }
