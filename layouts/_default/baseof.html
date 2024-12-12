@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <title>{{ .Page.Title }}</title>
+</head>
+
+<body>
+    <header>
+        <a href="/index.html"><img src="/images/logo.png" id="logo" alt="1235 Media Logo" /></a>
+        <menu>
+            <a href="/posts">Blog</a>
+            <a href="/#services">Services</a>
+            <a href="/experience">Experience</a>
+            <a href="/#contact">Contact</a>
+        </menu>
+    </header>
+
+    {{ block "main" . }}
+    {{ end }}
+
+    <footer>
+        &copy;2024 1235Media
+    </footer>
+</body>
+</html>
