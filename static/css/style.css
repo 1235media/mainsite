@@ -41,6 +41,8 @@ body {
     display: flex;
     flex-direction: column;
     overflow-x: hidden;
+    min-height: 100vh;
+    justify-content: space-between;
 }
 
 body > * {
@@ -311,7 +313,6 @@ footer {
 }
 
 section {
-    padding: 0 var(--body-padding);
     margin: 2rem 0;
     display: grid;
     grid-template-columns: 4fr 2fr;
@@ -402,5 +403,27 @@ section > img {
 
     #services-title > * {
         border-radius: var(--border-radius) 0 0 0;
+    }
 }
+
+article {
+    flex: 1;
+}
+
+.posts {
+    flex: 1;
+}
+
+section.posts {
+    display: flex;
+    flex-direction: column;
+}
+
+.posts li {
+    border-top: 1px solid #ccc;
+    padding: 1rem;
+}
+
+.posts li:last-child {
+    border-bottom: 1px solid #ccc;
 }
