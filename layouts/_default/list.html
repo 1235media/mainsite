@@ -1,7 +1,7 @@
 {{ define "main" }}
     <h2>{{ .Title }}</h2>
-    {{ range .Pages }}
     <section class="posts">
+    {{ range .Pages }}
         <ul>
             <li>{{ .Date | time.Format ":date_medium" }} <a href="{{ .Permalink }}">{{ .Title }}</a></li>
         </ul>
