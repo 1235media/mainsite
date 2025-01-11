@@ -24,7 +24,7 @@ The cost with a site like this is all up front.  The domain name isn't free and 
 
 If you're a bit technical and want to try some of this on your own, here is the exact technical stack we use for 1235Media.com
 
-1. Hugo is the software we use to generate our static site
+1. [https://gohugo.io](Hugo) is the software we use to generate our static site
     1. It is free and open source.
     1. You can find lots of cool templates [here](https://hugothemesfree.com)
 1. [Github.com](https://github.com) to hold all of the template files and content
