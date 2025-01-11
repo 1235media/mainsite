@@ -27,8 +27,8 @@ If you're a bit technical and want to try some of this on your own, here is the 
 1. Hugo is the software we use to generate our static site
     1. It is free and open source.
     1. You can find lots of cool templates [here](https://hugothemesfree.com)
-1. (Github.com)[https://github.com] to hold all of the template files and content
+1. [Github.com](https://github.com) to hold all of the template files and content
     1. You can create a free account
 1. We registered the domain name with [squarespace.com](https://domains.squarespace.com)
-1. (Netlify)[https://netlify.com] hosts our content
+1. [Netlify](https://netlify.com) hosts our content
     1. Whenever we push a new article to our main branch on github, netlify picks up the change and updates the site
