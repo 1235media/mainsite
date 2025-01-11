@@ -1,6 +1,9 @@
 {{ define "main" }}
     <h2>{{ .Title }}</h2>
     <p><i>{{ .Date | time.Format ":date_medium" }}</i></p>
+    {{ with .Params.author }}
+        <p>Author: {{ . }}</p>
+    {{ end }}
     <article>
         {{ .Content }}
     </article>
