@@ -1,10 +1,12 @@
 {{ define "main" }}
     <h2>{{ .Title }}</h2>
-    {{ range .Pages }}
     <section class="posts">
         <ul>
+    {{ range .Pages }}
+        
             <li>{{ .Date | time.Format ":date_medium" }} <a href="{{ .Permalink }}">{{ .Title }}</a></li>
-        </ul>
-    </section>
+        
     {{ end }}
+</ul>
+</section>
 {{ end }}
