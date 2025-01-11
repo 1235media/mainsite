@@ -31,6 +31,6 @@ If you're a bit technical and want to try some of this on your own, here is the 
     1. You can find lots of cool templates [here](https://hugothemesfree.com)
 1. (github.com)[https://github.com] to hold all of the template files and content
     1. You can create a free account
-1. Registered the domain name with [squarespace.io](https://squarespace.io)
+1. Registered the domain name with [squarespace.com](https://domains.squarespace.com)
 1. Netlify hosts our content
     1. Whenever we push a new article to our main branch on github, netlify picks up the change and updates the site
