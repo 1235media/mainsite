@@ -1,11 +1,9 @@
 +++
 date = '2025-01-11'
-title = 'Why I Love Static Websites'
+title = 'Static Websites Are Great (and Cheap)'
 author = 'Jon Wear'
 tags = ["netlify","static sites"]
 +++
-
-...and why you should love them too.  
 
 A staticlly generated website is one where all of the files are made ahead of time and put up on a server somewhere.  There is a program that looks at all the content files (like this article) and then looks at a bunch of other template files (mostly pre-made for you) and the spits out html, css and javascript.  That goes up on a server somewhere and if you have your domain name registered correctly, that group of files will display a website (like this statically generated site).  Why is this cool?
 
