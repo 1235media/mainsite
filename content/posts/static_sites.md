@@ -1,5 +1,5 @@
 +++
-date = '2025-01-11T08:33:24-06:00'
+date = '2025-01-11'
 title = 'Why I Love Static Websites'
 author = 'Jon Wear'
 tags = ["netlify","static sites"]
