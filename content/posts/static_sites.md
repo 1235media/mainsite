@@ -5,7 +5,7 @@ author = 'Jon Wear'
 tags = ["netlify","static sites"]
 +++
 
-A statically generated website is one where all of the files are made ahead of time and put up on a server somewhere.  There is a program that looks at all the content files (like this article) and then looks at a bunch of other template files (mostly pre-made for you) and then spits out HTML, CSS, and JavaScript.  That goes up on a server somewhere and if you have your domain name registered correctly, that group of files will display a website (like this statically generated site).  Why is this cool?
+A statically generated website is one where all the files are created ahead of time and uploaded to a server. How does this work? A program processes all the content files (like this article), combines them with a set of template files (usually pre-made for you), and generates HTML, CSS, and JavaScript. These files are then uploaded to the server. If your domain name is configured correctly, that collection of files will display a website (like this one). Why is this cool?
 
 1. There's no web server to configure and maintain that has to handle lots of server side rendering. Everything is already rendered
 1. There's no database to configure and maintain
