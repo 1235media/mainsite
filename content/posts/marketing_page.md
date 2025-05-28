@@ -19,19 +19,14 @@ Speaking of collecting email addresses, you’ll need somewhere to store those. 
 
 Are you selling tickets or accepting donations?  You’ll need a service for that as well.  
 
-And let’s go back to designs and the web page itself.  Does it adhere to the accessibility guidelines?  GenX and the vanguard of the Millennials are getting older.  A lot of us have readers.  You’ll want to make sure you’re following best practices for:
+And let’s go back to designs and the web page itself. Does it adhere to the accessibility guidelines? GenX and the vanguard of the Millennials are getting older. A lot of us have readers. You’ll want to make sure you’re following best practices for:
 
+* Color contrast
+* Alt text for images
+* Keyboard navigation
+* ARIA roles as needed
 
-<ul>
-  <li>Color contrast</li>
-  <li>Alt text for images</li>
-  <li>Keyboard navigation</li>
-  <li>ARIA roles as needed</li>
-</ul>
-
-
-
-Get all of that lined up and you’ll have a sharp looking site.  It’s not rocket science, but there’s more to it than registering a domain name (oops! left that out, but you’ll want that and a TLS certificate to go with it).
+Get all of that lined up and you’ll have a sharp looking site. It’s not rocket science, but there’s more to it than registering a domain name (oops! left that out, but you’ll want that and a TLS certificate to go with it).
 
 Enjoy your day and if you need help with any of this, let us know: [info@1235media.com](info@1235media.com).
 
