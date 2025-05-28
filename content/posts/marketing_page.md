@@ -5,7 +5,7 @@ author = 'Jon Wear'
 tags = ["web","static sites","design"]
 +++
 
-<img style="float: left;" src="/images/postweb.png">What goes into a marketing web site?  Something that’s little more than a poster on the web.  It’s easy.  Just put some web file things somewhere…and you’re all set!  Kind of, but there's more to it.
+<img style="float: left;" src="/images/postweb.png" alt="Simple image of a browser pane and all the sections that go into making a good web site">What goes into a marketing web site?  Something that’s little more than a poster on the web.  It’s easy.  Just put some web file things somewhere…and you’re all set!  Kind of, but there's more to it.
 
 You need some really great designs (by a place like [StoryArc](https://www.storyarcinc.com/)).  And not just designs that look great on your wide screen monitor.  A big chunk of web traffic these days is mobile.  In the US it’s [about half](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/united-states-of-america#monthly-202404-202504).  So the design needs to look good on big monitors, laptops, tablets and mobile phones and those phones will have lots of differing font sizes & text enlargers.  
 
