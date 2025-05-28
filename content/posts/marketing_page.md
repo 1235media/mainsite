@@ -22,7 +22,7 @@ Are you selling tickets or accepting donations?  You’ll need a service for tha
 And let’s go back to designs and the web page itself. Does it adhere to the accessibility guidelines? GenX and the vanguard of the Millennials are getting older. A lot of us have readers. You’ll want to make sure you’re following best practices for:
 
 1. Color contrast
-2. Alt text for images
+* Alt text for images
 3. Keyboard navigation
 4. ARIA roles as needed
 
