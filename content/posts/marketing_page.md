@@ -65,7 +65,6 @@ Here's a checklist to wrap it all up:
 - [ ] Privacy Policy page styled to match site
 - [ ] Terms & Conditions page styled to match site
 - [ ] Cookie banner in place (if using third-party cookies)
-- [ ] GDPR-compliant tracking and forms
 
 # 7. Error Handling
 - [ ] Custom 404 page created and themed
