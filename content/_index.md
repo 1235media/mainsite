@@ -1,3 +1,8 @@
++++
+title = "1235Media LLC"
++++
+
+<!-- Paste your existing HTML content below -->
 <div id="hero">
     <div class="box">
         <h2>Break Old Patterns</h2>
