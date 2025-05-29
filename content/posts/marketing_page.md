@@ -79,6 +79,6 @@ Here's a checklist to wrap it all up:
 - [ ] Tracking is GDPR-compliant and cookie-free if possible
 
 
-Enjoy your day and if you need help with any of this, let us know: [info@1235media.com](info@1235media.com).
+Enjoy your day and if you need help with any of this, let us know: <a href="mailto:info@1235media.com">info@1235media.com</a>.
 	
 
