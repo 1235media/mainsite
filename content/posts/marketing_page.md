@@ -19,6 +19,8 @@ Consider, we already have _four_ different pieces of external content for your s
 
 Are you selling tickets or accepting donations?  You’ll need a service for that!  That has to be configured so that you can accept funds and have a bank account for the funds to land in.
 
+Once your site goes live you'll want to know how it's doing.  Sure you can plop Google Analytics on there to watch traffic but I'd recommending something like [Plausible.io](https://plausible.io).  They are GDPR compliant and they are cookie free!
+
 And let’s go back to designs and the web page itself. Does it adhere to the accessibility guidelines? You’ll want to make sure you’re following best practices for:
 
 1. Color contrast
