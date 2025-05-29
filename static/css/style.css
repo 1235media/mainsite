@@ -300,7 +300,7 @@ form div {
 
 footer {
     background-color: var(--accent);
-    color: white;
+    color: black;
     margin-top: 2rem;
     text-align: center;
     padding: 4rem;
