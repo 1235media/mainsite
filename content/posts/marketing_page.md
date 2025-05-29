@@ -34,48 +34,48 @@ Here's a checklist to wrap it all up:
 
 # Simple Website Checklist
 
-## 1. Hosting & Infrastructure
+# 1. Hosting & Infrastructure
 - [ ] Domain name registered
 - [ ] TLS certificate installed (HTTPS)
 
-## 2. Design & Responsiveness
+# 2. Design & Responsiveness
 - [ ] Professionally designed layout
 - [ ] Mobile-friendly (phones, tablets)
 - [ ] Looks good on desktops, laptops, tablets, and phones
 - [ ] Supports variable font sizes and text enlargers
 - [ ] Visual consistency across all sections (forms, policies, etc.)
 
-## 3. Accessibility
+# 3. Accessibility
 - [ ] High color contrast for readability
 - [ ] Descriptive alt text on all images
 - [ ] Full keyboard navigation supported
 - [ ] Appropriate ARIA roles used
 
-## 4. Cross-Device & Browser Testing
+# 4. Cross-Device & Browser Testing
 - [ ] Site tested on Android and iOS devices
 - [ ] Site tested in Chrome, Safari, Edge (major browsers)
 - [ ] No broken layouts or CSS issues in different form factors
 
-## 5. Forms & User Interaction
+# 5. Forms & User Interaction
 - [ ] Email sign-up form present and functional
 - [ ] Form styled to match site design
 - [ ] Integrated with email list service (e.g., Brevo, Buttondown)
 
-## 6. Legal & Compliance
+# 6. Legal & Compliance
 - [ ] Privacy Policy page styled to match site
 - [ ] Terms & Conditions page styled to match site
 - [ ] Cookie banner in place (if using third-party cookies)
 - [ ] GDPR-compliant tracking and forms
 
-## 7. Error Handling
+# 7. Error Handling
 - [ ] Custom 404 page created and themed
 
-## 8. Commerce & Donations (if applicable)
+# 8. Commerce & Donations (if applicable)
 - [ ] Ticket sales or donation service integrated
 - [ ] Payment flow tested end-to-end
 - [ ] Funds deposited into verified bank account
 
-## 9. Analytics
+# 9. Analytics
 - [ ] Lightweight analytics installed (e.g., Plausible.io)
 - [ ] Tracking is GDPR-compliant and cookie-free if possible
 
